@@ -17,4 +17,4 @@ if __name__ == '__main__' :
     
     print('sls_server' + version)
     
-    app.run( host='127.0.0.1', port=5000 )
+    app.run( host='203.253.25.48', port=5000 )
